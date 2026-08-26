@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth Keyboard",
+  "description": "Turns your Android device into a wireless Bluetooth HID keyboard for typing on PC, Mac, Linux, and tablets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
